@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;400;600;700&display=swap");
+
+.retangulo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: #f55a5a;
+  width: 550px;
+  height: 55px;
+  margin: auto;
+}
+.container {
+  margin: auto;
+  background: white;
+  width: 550px;
+  height: 704px;
+}
+
+.fill-image {
+  width: 24px;
+  height: 24px;
+  margin: 5px;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  margin-top: 50px;
+}
+
+.descriptions {
+  text-align: start;
+  width: 326px;
+  height: 45px;
+  left: 184px;
+  top: 203px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+}
+.day {
+  font-weight: bold;
+}
+
+.image-- {
+  margin-right: 10px;
+  width: 125px;
+  height: 168px;
+  left: 40px;
+}
+
+.local {
+  width: 7px;
+  height: 9px;
+  left: 184px;
+  top: 120px;
+
+  background: #f55a5a;
+}
+
+.pais {
+  font-family: Inter;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 12px;
+  letter-spacing: 0.17em;
+  text-align: left;
+}
